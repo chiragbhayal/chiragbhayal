@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=github"/>
   <img src="https://skillicons.dev/icons?i=figma"/>
-  <img src="https://skillicons.dev/icons?i=canva"/>
+  <img src="https://icons8.com/icon/iWw83PVcBpLw/canva"/>
 
 </p>
 
