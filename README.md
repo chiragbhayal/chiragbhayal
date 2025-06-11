@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=java"/>
   <img src="https://skillicons.dev/icons?i=kotlin"/>
   <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=flask"/>
+  <img src="https://skillicons.dev/icons?i=django"/>
   <img src="https://skillicons.dev/icons?i=js"/>
   <img src="https://skillicons.dev/icons?i=react"/>
   <img src="https://skillicons.dev/icons?i=nodejs"/>
@@ -33,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=github"/>
   <img src="https://skillicons.dev/icons?i=figma"/>
-  <img src="https://icons8.com/icon/iWw83PVcBpLw/canva"/>
+  <img src="https://skillicons.dev/icons?i=ps"/>
 
 </p>
 
