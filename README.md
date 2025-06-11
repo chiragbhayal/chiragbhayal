@@ -19,7 +19,27 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,react,nodejs,express,mongodb,mysql,html,css,git,github,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=java"/>
+  <img src="https://skillicons.dev/icons?i=kotlin"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=js"/>
+
+  
+| Kotlin     | `https://skillicons.dev/icons?i=kotlin`  |
+| Python     | `https://skillicons.dev/icons?i=python`  |
+| JavaScript | `https://skillicons.dev/icons?i=js`      |
+| React      | `https://skillicons.dev/icons?i=react`   |
+| Node.js    | `https://skillicons.dev/icons?i=nodejs`  |
+| Express    | `https://skillicons.dev/icons?i=express` |
+| MongoDB    | `https://skillicons.dev/icons?i=mongodb` |
+| MySQL      | `https://skillicons.dev/icons?i=mysql`   |
+| HTML       | `https://skillicons.dev/icons?i=html`    |
+| CSS        | `https://skillicons.dev/icons?i=css`     |
+| Git        | `https://skillicons.dev/icons?i=git`     |
+| GitHub     | `https://skillicons.dev/icons?i=github`  |
+| Figma      | `https://skillicons.dev/icons?i=figma`   |
+| Canva      | `https://skillicons.dev/icons?i=canva`   |
+" />
 </p>
 
 ---
