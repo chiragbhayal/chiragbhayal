@@ -1,7 +1,4 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chiragbhayal/chiragbhayal/main/assets/banner.png" alt="Profile Banner" width="100%" />
-</p>
+
 
 # 👋 Hello there! I'm Chirag Bhayal
 
