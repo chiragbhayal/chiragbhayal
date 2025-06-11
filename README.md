@@ -23,23 +23,18 @@
   <img src="https://skillicons.dev/icons?i=kotlin"/>
   <img src="https://skillicons.dev/icons?i=python"/>
   <img src="https://skillicons.dev/icons?i=js"/>
+  <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img src="https://skillicons.dev/icons?i=eexpress"/>
+  <img src="https://skillicons.dev/icons?i=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=figma"/>
+  <img src="https://skillicons.dev/icons?i=canva"/>
 
-  
-| Kotlin     | `https://skillicons.dev/icons?i=kotlin`  |
-| Python     | `https://skillicons.dev/icons?i=python`  |
-| JavaScript | `https://skillicons.dev/icons?i=js`      |
-| React      | `https://skillicons.dev/icons?i=react`   |
-| Node.js    | `https://skillicons.dev/icons?i=nodejs`  |
-| Express    | `https://skillicons.dev/icons?i=express` |
-| MongoDB    | `https://skillicons.dev/icons?i=mongodb` |
-| MySQL      | `https://skillicons.dev/icons?i=mysql`   |
-| HTML       | `https://skillicons.dev/icons?i=html`    |
-| CSS        | `https://skillicons.dev/icons?i=css`     |
-| Git        | `https://skillicons.dev/icons?i=git`     |
-| GitHub     | `https://skillicons.dev/icons?i=github`  |
-| Figma      | `https://skillicons.dev/icons?i=figma`   |
-| Canva      | `https://skillicons.dev/icons?i=canva`   |
-" />
 </p>
 
 ---
