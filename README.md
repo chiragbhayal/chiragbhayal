@@ -71,7 +71,7 @@
   <a href="https://github.com/chiragbhayal">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://instagram.com/chiragbhayl7">
+  <a href="https://instagram.com/chiragbhayl07">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
