@@ -62,7 +62,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/chiragbhayal">
+  <a href="https://linkedin.com/in/chiragbhayal07">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:chiragbhayal07@gmail.com">
@@ -71,7 +71,7 @@
   <a href="https://github.com/chiragbhayal">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://instagram.com/bhayal.designs">
+  <a href="https://instagram.com/chiragbhayl7">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
