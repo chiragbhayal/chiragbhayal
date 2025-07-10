@@ -10,7 +10,6 @@
 - 💡 Interested in **Full Stack Dev**, **REST APIs**, **UI/UX Design**
 - 🔭 Currently building: `Collabio` & `Shopigo`
 - 🌱 Learning: **MERN Stack**, **DSA**, **Design Thinking**
-- 🎨 Graphic designer at Parul University Placement Cell
 - 📫 Reach me at: **chiragbhayal07@gmail.com**
 - ⚡ Fun fact: Lofi + Code = Magic 🎧
 
